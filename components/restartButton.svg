@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="20px" viewBox="0 0 142 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>RESTAR BUTON 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GAME-BOARD" transform="translate(-517.000000, -7.000000)">
+            <g id="RESTAR-BUTON" transform="translate(517.600000, 7.200000)">
+                <ellipse id="Oval" stroke="#979797" stroke-width="0.8" fill="#FADF68" cx="70.4" cy="66" rx="70" ry="65.6"></ellipse>
+                <path d="M20.0714226,71.6290639 C21.9713822,71.6290639 23.8713419,73.4380459 23.8713419,75.6822228 C23.8713419,97.9713491 42.9529509,116.061169 66.3299723,116.061169 C90.1614804,116.061169 109.280679,97.9713491 109.280679,75.6822228 C109.280679,55.2767761 93.5445021,38.5607433 73.0174202,35.3779743 L73.0174202,55.783421 L44.8529105,32.1919575 L73.0174202,8.60374178 L73.0174202,27.6321537 C98.2944012,30.3862232 117.37601,50.7916699 117.37601,75.6822228 C117.37601,102.456455 94.9489687,123.803742 66.3299723,123.803742 C38.6575385,123.803742 15.7760102,102.456455 15.7760102,75.6822228 C15.7760102,73.4380459 17.1804768,71.6290639 20.0714226,71.6290639" id="Fill-13" fill="#FFFFFF" transform="translate(66.576010, 66.203742) rotate(-8.000000) translate(-66.576010, -66.203742) "></path>
+                <text id="Restart" font-family="Phosphate-Inline, Phosphate" font-size="26" font-weight="bold" fill="#FF0408">
+                    <tspan x="10.6" y="75.8">RESTART</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
