@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="150px" height="140px" viewBox="0 0 133 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>x button</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GAME-BOARD-turn-x" transform="translate(-529.000000, -251.000000)">
+            <rect fill="#000000" x="0" y="0" width="1440" height="1024"></rect>
+            <text id="x" font-family="Sans,Arial" font-size="180" font-weight="normal" fill="#601314">
+                <tspan x="554" y="359">x</tspan>
+            </text>
+            <g id="Group" transform="translate(529.000000, 168.000000)">
+                <ellipse id="Oval" stroke="#979797" fill="#C2DB64" cx="66.5" cy="146" rx="66" ry="62.5"></ellipse>
+                <text id="x" font-family="Sans,Arial" font-size="160" fill="#601314">
+                    <tspan x="25" y="190">x</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
