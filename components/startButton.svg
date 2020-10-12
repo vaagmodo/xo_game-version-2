@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 236 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>START BUTTON</title>
+    <defs>
+        <circle id="path-1" cx="118" cy="118" r="118"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="START-GAME" transform="translate(-618.000000, -349.000000)">
+            <g id="START" transform="translate(618.000000, 349.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D0B51C" xlink:href="#path-1"></use>
+                <text mask="url(#mask-2)" font-family="Phosphate-Inline, Phosphate" font-size="45" font-weight="normal" fill="#F70101">
+                    <tspan x="50" y="133">START</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
