@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="150px" height="140px" viewBox="0 0 133 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>o-oval stat</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GAME-BOARD" transform="translate(-804.000000, -251.000000)" stroke="#979797">
+            <g id="o-oval-stat" transform="translate(804.000000, 251.000000)">
+                <ellipse id="Oval" fill="#FFFFFF" cx="66.5" cy="63" rx="66" ry="62.5"></ellipse>
+                <ellipse id="Oval" fill="#BE2626" cx="67.5" cy="63.5" rx="49" ry="45"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
